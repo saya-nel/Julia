@@ -61,3 +61,8 @@ Il est possible de lancer un calcul qui s'arrête quand la fonction diverge ou e
 ## Copyrights
 
 © BELLO MARAIS
+
+auteurs :
+
+- Pablito BELLO
+- Etienne MARAIS
