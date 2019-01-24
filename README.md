@@ -1,7 +1,7 @@
 # Projet_Julia
 
 Ce projet fonctionne sous **Java 11**.
-Le sujet du complet du projet ce trouve à la racine sous le nom de sujet.pdf
+Le sujet complet du projet ce trouve à la racine sous le nom de sujet.pdf
 
 ## Lancement
 
